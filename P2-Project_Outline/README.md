@@ -16,7 +16,9 @@ Include Features here
 *	Add/Remove Items: Users will be able to add items with an expiration date and remove items from their profile page marking whether they used it or threw it out.
 *	Search: Users will be able to search for recipes based off the items they have as well as other criteria (vegetarian, difficulty to make, etc)
 *	Add Recipes: Users will be able to create their own recipes which other users will be able to see when searching for recipes.
-*	Expiration Date Alerts: The application will alert the user when an item is about to expire. 
+*	Expiration Date Alerts: The application will alert the user when an item is about to expire.
+
+
 
 ### Technologies
 
@@ -33,3 +35,7 @@ Include Features here
 Include what you will need to learn here
 
 In designing this project I will learn how to implement a search bar. I hope also to make use of an API related to food ingredients to make this easier. Additionally I plan to learn some JavaScript to make the website more interactive. I may explore some other options for making user information secure.  
+
+### Project Tracker
+
+https://www.pivotaltracker.com/n/projects/2185454
