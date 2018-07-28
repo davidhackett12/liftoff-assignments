@@ -7,16 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My app is geared towards reducing food waste by helping Users keep track of their items expiration dates and by finding recipes that make use of the ingredients that they are trying to make use of. Users will be able to log on and track items they bought as the grocery store by adding them to their pantry with their expiration date. Users will be alerted when items are about to expire and they will be able to track how much food they are wasting. Users will also be able to search for recipes based on the items they have in their pantry and add their own recipes for other users to make use of. 
+My app will be a Fantasy Cross Country application similar to other fantasy applications. Currently I am in a league which only uses email to communicate with excel documents to display team rosters and results. To make the running of a league easier users will be able to create a league and invite other users to join and create teams. Users will be able to manage their teams including adding and dropping runners from their team, proposing trades with other teams, and set their lineups week to week. Additionally league standings and weekly results will be calculated via the application and can be viewed by users. Ideally the application will eventually be able to automatically update results.
 
 ### Features
-Include Features here
 
-*	User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
-*	Add/Remove Items: Users will be able to add items with an expiration date and remove items from their profile page marking whether they used it or threw it out.
-*	Search: Users will be able to search for recipes based off the items they have as well as other criteria (vegetarian, difficulty to make, etc)
-*	Add Recipes: Users will be able to create their own recipes which other users will be able to see when searching for recipes.
-*	Expiration Date Alerts: The application will alert the user when an item is about to expire.
+*	User login: Users will be able to create accounts and log in to the application. 
+*	Create/Join a League: Users will be able to create or join a league; eventually invitations will be via email.
+*	Manage Team: Users will be able to create a team, edit basics, add runners, set their lineups, and propose trades with other teams.
+*	View Standings/Results: Users will be able to view their League Standings and weekly results on the website.
+*	Messages: Users will be able to communicate with other users on the website and post to a general forum
+
+Backlogged Features
+* Email: invites will be done through email. 
+* Upload a list of runners: Commissioners will be able to upload an excel or csv of runners that each get converted into a runner object that users can then select to be on their team.
+* Upload a race: Commissioners will be able to include a link to race results that the application will automatically comb through for results for runners
 
 
 
@@ -32,10 +36,14 @@ Include Features here
 
 
 ### What I'll Have to Learn
-Include what you will need to learn here
 
-In designing this project I will learn how to implement a search bar. I hope also to make use of an API related to food ingredients to make this easier. Additionally I plan to learn some JavaScript to make the website more interactive. I may explore some other options for making user information secure.  
+* I will learn some javascript in order to make the website more interactive
+* I will learn how to implement a search bar that searches through a database my app is linked to
+* I will hopefully learn to use Spring Security in order to implement the login
+* I hope to also learn how to implement file readers for html and either excel or csv.
+
+
 
 ### Project Tracker
 
-https://www.pivotaltracker.com/n/projects/2185454
+https://www.pivotaltracker.com/n/projects/2187002
