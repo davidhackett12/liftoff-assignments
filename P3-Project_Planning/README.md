@@ -8,8 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+*https://github.com/davidhackett12/liftoff-assignments/blob/master/Fantasy%20Cross%20Country%20Wire%20Frame%20(3)-Add%20Runner.jpg
+*https://github.com/davidhackett12/liftoff-assignments/blob/master/Fantasy%20Cross%20Country%20Wire%20Frame%20(3)-Landing%20Page%20(Logged%20in).jpg
+*https://github.com/davidhackett12/liftoff-assignments/blob/master/Fantasy%20Cross%20Country%20Wire%20Frame%20(3)-Landing%20Page%20(not%20logged%20in).jpg
+*https://github.com/davidhackett12/liftoff-assignments/blob/master/Fantasy%20Cross%20Country%20Wire%20Frame%20(3)-Login.jpg
+*https://github.com/davidhackett12/liftoff-assignments/blob/master/Fantasy%20Cross%20Country%20Wire%20Frame%20(3)-My%20Team.jpg
+*https://github.com/davidhackett12/liftoff-assignments/blob/master/Fantasy%20Cross%20Country%20Wire%20Frame%20(3)-View%20League.jpg
+
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://www.pivotaltracker.com/n/projects/2187002
